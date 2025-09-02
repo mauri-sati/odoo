@@ -6,5 +6,8 @@
     'description': "hola soy de mauri",
     'depends': [
         'base',
+    ],
+    'data': [
+        'security/ir.model.access.csv'
     ]
 }
