@@ -3,7 +3,6 @@
 
 {
     'name': 'estate',
-    'category': 'Sales/CRM',
     'description': "hola soy de mauri",
     'depends': [
         'base',
